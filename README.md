@@ -12,7 +12,7 @@ At the end of each game, the player can reset the game and choose game mode agai
 ![snap2](https://github.com/linknacro/Hangman126/blob/master/fantastic-finale-Link-nacro/screenshots/snap2.PNG)
 ![snap3](https://github.com/linknacro/Hangman126/blob/master/fantastic-finale-Link-nacro/screenshots/snap3.PNG)
 
-### Hint: the sound effects will get you addicted to the game! 
+#### *Hint: the sound effects will get you addicted to the game!* 
 
 ## How to Download and Play
 Go to my newest release under this repository and download Hangman126.zip. Unzip the file and you will see an executable under folder Hangman126. Double click the executable and enjoy the gameplay!
