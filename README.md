@@ -15,4 +15,4 @@ At the end of each game, the player can reset the game and choose game mode agai
 #### *Hint: the sound effects will get you addicted to the game!* 
 
 ## How to Download and Play
-Go to my newest release under this repository and download Hangman126.zip. Unzip the file and you will see an executable under folder Hangman126. Double click the executable and enjoy the gameplay!
+Go to my [newest release](https://github.com/linknacro/Hangman126/releases/tag/v1.0) under this repository and download Hangman126.zip. Unzip the file and you will see an executable under folder Hangman126. Double click the executable and enjoy the gameplay!
