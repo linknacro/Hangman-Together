@@ -6,8 +6,8 @@
 //--------------------------------------------------------------
 void ofApp::setup() {
     if (current_state_ == START) {
-        screen_width_ = ofGetScreenWidth();
-        screen_height_ = ofGetScreenHeight();
+        screen_width_ = 1920;
+        screen_height_ = 1080;
 
         ofSetWindowPosition(0, screen_height_ * 0.035);
         ofSetWindowShape(screen_width_, screen_height_ * 0.92);
