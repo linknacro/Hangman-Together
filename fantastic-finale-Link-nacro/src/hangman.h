@@ -11,7 +11,7 @@ class Hangman {
 		vector<std::string> word_base_{
 			"polymorphism", "cryptography", "cybersecurity", "hackathon",
 			"internship",   "javascript",  "debug", "dynamic", "easy", "programmer",
-			"hardware", "software", "memory", "imperative", "spaghetti", "penguin", "amazon"
+			"hardware", "software", "memory", "imperative", "spaghetti", "penguin", "amazon",
 			"television", "couch", "alcoholism", "nuclear", "engineer", "discovery"};
         vector<char> letters_;
 		std::string current_word_;
