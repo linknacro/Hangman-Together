@@ -9,7 +9,7 @@ void ofApp::setup() {
         screen_width_ = 1920;
         screen_height_ = 1080;
 
-        ofSetWindowPosition(0, screen_height_ * 0.035);
+        ofSetWindowPosition(0, 60);
         ofSetWindowShape(screen_width_, screen_height_ * 0.92);
         ofSetWindowTitle("Hangman126");
         ofBackground(167, 255, 145);
