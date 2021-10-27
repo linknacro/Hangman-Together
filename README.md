@@ -8,7 +8,7 @@ This is a hangman game with two game modes.
 At the end of each game, the player can reset the game and choose game mode again. All the required instructions are provided in the game.
 
 ## How to Download and Play
-Go to my [newest release](https://github.com/linknacro/Hangman126/releases/tag/v1.0) under this repository and download Hangman126.zip. Unzip the file and you will see an executable under folder Hangman126. Double click the executable and enjoy the game!
+Go to my [newest release](https://github.com/linknacro/Hangman/releases/tag/v1.0) under this repository and download Hangman.zip. Unzip the file and you will see an executable under folder Hangman126. Double click the executable and enjoy the game!
 
 ## Preview 
 ![snap1](https://github.com/linknacro/Hangman126/blob/master/fantastic-finale-Link-nacro/screenshots/snap1.PNG)
