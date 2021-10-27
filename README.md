@@ -1,4 +1,4 @@
-# Hangman
+# Hangman Co-op
 
 ## Description
 This is a hangman game with two game modes. 
