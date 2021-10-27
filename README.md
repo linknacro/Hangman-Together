@@ -1,4 +1,4 @@
-# Hangman Together
+# Hangman 126
 
 ## Description
 This is a hangman game with two game modes. 
