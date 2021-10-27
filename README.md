@@ -1,4 +1,4 @@
-# Hangman 126
+# Hangman
 
 ## Description
 This is a hangman game with two game modes. 
